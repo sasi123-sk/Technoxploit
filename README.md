@@ -1,7 +1,6 @@
 # Technoxploit
 
 <img width="477" alt="Screenshot 2024-02-01 at 12 19 44 AM" src="https://github.com/sasi123-sk/Technoxploit/assets/81082865/8513816b-5c21-45f7-b0f1-223cb32c6640">
-# Web Security Tool
 
 A Python script to analyze server versions, search for exploits, and perform security checks on websites.
 
