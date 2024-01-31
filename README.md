@@ -43,7 +43,9 @@ This tool is designed to perform security assessments on websites by analyzing s
 3. Ensure that `searchsploit` is installed on your system.
 
 ## Usage
-
+```
+pip install technoxploit==0.1.0
+```
 ```bash
 python3 technoxploit.py -h
 
