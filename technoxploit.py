@@ -16,6 +16,7 @@ def display_banner():
      |_|\___|\___|_| |_|_| |_|\___/_/\_\ .__/|_|\___/|_|\__|
                                        |_|
                                        - sasikaran.surge.sh
+                                       - insta: 0xwhitedevil
     """.format(Fore.GREEN)
     print(banner)
 
