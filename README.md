@@ -45,6 +45,6 @@ This tool is designed to perform security assessments on websites by analyzing s
 ## Usage
 
 ```bash
+python3 technoxploit.py -h
+
 python3 technoxploit.py -u http://example.com
-
-
